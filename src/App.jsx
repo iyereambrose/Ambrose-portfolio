@@ -43,7 +43,7 @@ function App() {
             </a>
 
             <a
-              href="/Iyere_Ambrose_Updated_CV%20(1).pdf"
+              href="/Iyere_Ambrose_CV.pdf"
               className="secondary-button"
               download="Iyere_Ambrose_CV.pdf"
             >
@@ -169,16 +169,17 @@ function App() {
         <h2>Professional Experience</h2>
 
         <div className="experience-card">
-          <h3>Data entry — Wema Bank Plc</h3>
+          <h3>Frontend — Wema Bank Plc</h3>
           <p className="experience-date">2024 – Till date</p>
 
           <p>
-          Responsible for accurately entering, updating, and maintaining 
-          customer and banking information in the bank’s computer systems. 
-          Verified transactions and customer records to ensure accuracy, 
-          completeness, and consistency. Maintained proper documentation, 
-          handled confidential financial information securely, and supported
-          efficient banking operations through accurate data management.
+            Designed and developed responsive, user-friendly web interfaces
+            using HTML, CSS, JavaScript, and React. Integrated frontend
+            applications with RESTful APIs to ensure seamless communication
+            with backend services. Tested and debugged applications to improve
+            performance, usability, and cross-browser compatibility.
+            Collaborated on software development projects to deliver functional,
+            accessible, and visually appealing web applications.
           </p>
         </div>
 
